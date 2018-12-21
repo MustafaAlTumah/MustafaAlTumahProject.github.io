@@ -92,7 +92,7 @@ float: right;
 {
   margin-top: 100;
   height:1000px;
-  background:url('img/10.jpg') no-repeat;
+  background:url('10.jpg') no-repeat;
   background-size:100%;
 }
 nav ul li a
@@ -112,7 +112,7 @@ nav ul li a:hover
 
 #Containt
 {
-background:url('img/55.jpg') no-repeat ;
+background:url('55.jpg') no-repeat ;
 background-size: 100%;
   padding: 185px;
   text-align: center;
@@ -143,17 +143,17 @@ background-size: 100%;
 }
 #Containt #imag1
 {
-  background:url('img/mac.jpg') no-repeat top center;
+  background:url('mac.jpg') no-repeat top center;
   background-size: 250%;
 }
 #Containt #imag2
 {
-  background:url('img/iPhone.jpg') no-repeat top center;
+  background:url('iPhone.jpg') no-repeat top center;
   background-size: 270%;
 }
 #Containt #imag3
 {
-  background:url('img/ipad.jpg') no-repeat top center;
+  background:url('ipad.jpg') no-repeat top center;
   background-size: 250%;
 }
 #Containt ul li h4 a
@@ -205,7 +205,7 @@ footer ul
 #main1
 {
 
-  background:url('img/Products.jpg') no-repeat ;
+  background:url('Products.jpg') no-repeat ;
   background-size: 100%;
 
 }
@@ -242,7 +242,7 @@ text-decoration: underline;
 }
  #form
 {
-  background:url('img/form.jpg') no-repeat ;
+  background:url('form.jpg') no-repeat ;
   background-size: 100%;
 background-size: cover;
 }
@@ -344,7 +344,7 @@ button{
 /* about*/
 
 #about{
-  background:url('img/666.jpg') no-repeat ;
+  background:url('666.jpg') no-repeat ;
     background-size: 100%;
 color: white
 
